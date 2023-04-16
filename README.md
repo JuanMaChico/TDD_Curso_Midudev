@@ -1,2 +1,32 @@
-# TDD_Curso_Midudev
-Práctica de TDD siguiendo video de Midudev
+# Practicando TDD con Midudev
+
+Este repositorio es una colección de ejercicios para practicar Test Driven Development (TDD) basados en el video tutorial de Midudev "¿Qué es TDD? Tutorial de Test Driven Development" (disponible en [YouTube](https://www.youtube.com/watch?v=_t9l2TwGioc&t=6183s&ab_channel=midulive)).
+
+## ¿Qué es TDD?
+
+TDD es una metodología de desarrollo de software que consiste en escribir primero las pruebas para un conjunto de funcionalidades y luego implementar el código que las haga pasar. Esto asegura que el código esté bien probado desde el principio, evita la creación de código innecesario y mejora la calidad del software en general.
+
+## Estructura del repositorio
+
+Cada ejercicio se encuentra en su propia carpeta, numerados en orden consecutivo, comenzando por el ejercicio 01. Dentro de cada carpeta encontrarás un archivo `README.md` que contiene la descripción del problema y los requisitos para la solución. También encontrarás un archivo `tests.py` con los tests que debes escribir y un archivo `solution.py` donde debes escribir el código para pasar los tests.
+
+## ¿Cómo utilizar este repositorio?
+
+Para utilizar este repositorio, primero debes clonarlo en tu computadora:
+
+`git clone https://github.com/JuanMaChico/TDD_Curso_Midudev.git`
+
+Luego, navega a la carpeta del ejercicio que desees resolver y lee la descripción del problema en el archivo `README.md`. Una vez que hayas entendido el problema, escribe los tests correspondientes en el archivo `tests.py` y ejecútalos para asegurarte de que fallan. Finalmente, escribe el código necesario en el archivo `solution.py` para hacer pasar los tests.
+
+Recuerda que la idea es que primero escribas los tests y luego implementes el código, ¡no al revés!
+
+## Contribuciones
+
+Siéntete libre de crear un pull request si deseas agregar un nuevo ejercicio o mejorar alguno de los ya existentes.
+
+## Agradecimientos
+
+Este repositorio fue creado gracias a la inspiración y guía del video tutorial de Midudev "¿Qué es TDD? Tutorial de Test Driven Development". ¡Gracias Midudev por compartir tu conocimiento con la comunidad!
+
+
+
