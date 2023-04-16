@@ -8,8 +8,6 @@ TDD es una metodología de desarrollo de software que consiste en escribir prime
 
 ## Estructura del repositorio
 
-Cada ejercicio se encuentra en su propia carpeta, numerados en orden consecutivo, comenzando por el ejercicio 01. Dentro de cada carpeta encontrarás un archivo `README.md` que contiene la descripción del problema y los requisitos para la solución. También encontrarás un archivo `tests.py` con los tests que debes escribir y un archivo `solution.py` donde debes escribir el código para pasar los tests.
-
 ## ¿Cómo utilizar este repositorio?
 
 Para utilizar este repositorio, primero debes clonarlo en tu computadora:
