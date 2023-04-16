@@ -14,8 +14,6 @@ Para utilizar este repositorio, primero debes clonarlo en tu computadora:
 
 `git clone https://github.com/JuanMaChico/TDD_Curso_Midudev.git`
 
-Luego, navega a la carpeta del ejercicio que desees resolver y lee la descripción del problema en el archivo `README.md`. Una vez que hayas entendido el problema, escribe los tests correspondientes en el archivo `tests.py` y ejecútalos para asegurarte de que fallan. Finalmente, escribe el código necesario en el archivo `solution.py` para hacer pasar los tests.
-
 Recuerda que la idea es que primero escribas los tests y luego implementes el código, ¡no al revés!
 
 ## Contribuciones
